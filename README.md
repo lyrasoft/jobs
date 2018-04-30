@@ -1,6 +1,6 @@
 # MEGAMOUNT 百岳國際 - 徵才專區
 
-![](https://avatars2.githubusercontent.com/u/17608213)
+![](https://avatars2.githubusercontent.com/u/17608213?s=150)
 
 ## 關於我們
 
