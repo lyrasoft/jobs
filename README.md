@@ -12,6 +12,6 @@
 
 ### 作品
 
-[我們的 Opensource](https://lyrasoft.net/tw/opensource.html) | [Behane 作品集](https://www.behance.net/simular)
+[我們的 Opensource](https://lyrasoft.net/tw/opensource.html) | [Behance 作品集](https://www.behance.net/simular)
 
 ## 職缺請見: [職缺列表](https://github.com/lyrasoft/jobs/issues)
