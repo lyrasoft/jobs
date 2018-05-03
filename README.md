@@ -15,3 +15,11 @@
 [我們的 Opensource](https://lyrasoft.net/tw/opensource.html) | [Behance 作品集](https://www.behance.net/simular)
 
 ## 職缺請見: [職缺列表](https://github.com/lyrasoft/jobs/issues)
+
+## 環境
+
+![default](https://user-images.githubusercontent.com/17608213/39594878-79f6034a-4f40-11e8-9db2-48badd78e44a.jpg)
+
+![2](https://user-images.githubusercontent.com/17608213/39594879-7a23c62c-4f40-11e8-8b55-b5c63c8b385c.jpg)
+
+![default](https://user-images.githubusercontent.com/17608213/39594918-8d0cdbf2-4f40-11e8-9daf-05036577f111.jpg)
