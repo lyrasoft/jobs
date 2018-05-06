@@ -1,6 +1,6 @@
 # MEGAMOUNT 百岳國際 - 徵才專區
 
-![mega- -banner](https://user-images.githubusercontent.com/17608213/39595029-df0998dc-4f40-11e8-90f5-17ff0a0c7a8b.jpg)
+![](https://i.imgur.com/0VOxRMl.jpg)
 
 ## 關於我們
 
@@ -13,6 +13,14 @@
 ### 作品
 
 [我們的 Opensource](https://lyrasoft.net/tw/opensource.html) | [Behance 作品集](https://www.behance.net/simular)
+
+### 更了解我們
+
+如果您想在應徵前更了解我們，這裡是我們的一些公開文件
+
+- [編碼標準](https://github.com/lyrasoft/coding-standards)
+- [中文 CSS 排版規範](https://github.com/lyrasoft/coding-standards/blob/master/chinese.md)
+- [中文隱私權條款範本](https://github.com/lyrasoft/chinese-privacy-policy-template)
 
 ## 職缺請見: [職缺列表](https://github.com/lyrasoft/jobs/issues)
 
