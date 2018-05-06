@@ -22,7 +22,11 @@
 - [中文 CSS 排版規範](https://github.com/lyrasoft/coding-standards/blob/master/chinese.md)
 - [中文隱私權條款範本](https://github.com/lyrasoft/chinese-privacy-policy-template)
 
+-----
+
 ## 職缺請見: [職缺列表](https://github.com/lyrasoft/jobs/issues)
+
+-----
 
 ## 環境
 
