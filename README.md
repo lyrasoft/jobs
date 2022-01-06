@@ -24,13 +24,13 @@
 
 -----
 
-## 職缺請見: [職缺列表](https://github.com/lyrasoft/jobs/issues)
+## 職缺請見: [職缺列表](https://www.104.com.tw/company/1a2x6bjdky)
 
 -----
 
 ## 環境
 
-| ![default](https://user-images.githubusercontent.com/17608213/39594878-79f6034a-4f40-11e8-9db2-48badd78e44a.jpg) | ![2](https://user-images.githubusercontent.com/17608213/39594879-7a23c62c-4f40-11e8-8b55-b5c63c8b385c.jpg) |
+| ![default](https://static.104.com.tw/b_profile/cust_picture/5154/130000000065154/env/l_964113488077516528.jpg?v=20220105020239) | ![2](https://static.104.com.tw/b_profile/cust_picture/5154/130000000065154/env/l_890328564435467420.jpg?v=20220105020239) |
 | --- | --- |
-| ![default](https://user-images.githubusercontent.com/17608213/39594918-8d0cdbf2-4f40-11e8-9daf-05036577f111.jpg) | ![](https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/57313546_10215743732978321_3636361647733342208_n.jpg?_nc_cat=105&_nc_oc=AQn3n67QyAyHaMzL_ErLwbkPlhrtjHW2ICrYa48MLjzZijAM0YwyWTx6OXxiIWGgTKo&_nc_ht=scontent.ftpe7-4.fna&oh=09deadf075da9c8e964d75f0e8975723&oe=5E5DAC73) |
+| ![default](https://static.104.com.tw/b_profile/cust_picture/5154/130000000065154/env/l_890328564435818196.jpg?v=20220105020239) | ![](https://static.104.com.tw/b_profile/cust_picture/5154/130000000065154/env/l_890328564411620893.jpg?v=20220105020239) |
 
